@@ -1,5 +1,5 @@
 const  routes = {
-    table:"/show/table"
+    table:"/"
 }
 
 export default routes;
